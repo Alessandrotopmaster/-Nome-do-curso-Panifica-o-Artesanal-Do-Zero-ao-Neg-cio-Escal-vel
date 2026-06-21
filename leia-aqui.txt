@@ -1,0 +1,4 @@
+Adicione aqui:
+- imagens/ — tipos de farinha, etapas de sovagem, crescimento e pães prontos
+- audio/ — dicas de temperatura e ajustes sazonais
+- planilhas/ — cálculo de custos e ficha de lote
